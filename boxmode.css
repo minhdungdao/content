@@ -1,0 +1,18 @@
+h1{
+width: 1000px;
+box-sizing: border-box;
+ background-color: mediumspringgreen;
+    padding: 15px 10px;
+    color: white;
+    font-size: 100px;
+}
+h2{
+font-size: 50px;
+}
+p{
+
+}
+input {
+
+margin: 2px;
+}
